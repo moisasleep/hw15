@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1708718816000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson",
+        "title": "USGS Significant Earthquakes, Past Week",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 1
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "southern East Pacific Rise",
+                "time": 1708653072509,
+                "updated": 1708661494040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m0zq",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000m0zq.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": 0,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "us",
+                "code": "7000m0zq",
+                "ids": ",us7000m0zq,",
+                "sources": ",us,",
+                "types": ",losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 80,
+                "dmin": 8.022,
+                "rms": 0.78,
+                "gap": 76,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - southern East Pacific Rise"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.7859,
+                    -35.1238,
+                    1.992
+                ]
+            },
+            "id": "us7000m0zq"
+        }
+    ]
+}
